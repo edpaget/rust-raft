@@ -3,3 +3,7 @@
 name = "rust-raft"
 version = "0.0.1"
 authors = ["Edward Paget <edward@cassetteta.pe>"]
+
+[dependencies.url]
+
+git = "https://github.com/servo/rust-url.git"
