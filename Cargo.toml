@@ -1,6 +1,6 @@
 [package]
 
-name = "rust-raft"
+name = "raft"
 version = "0.0.1"
 authors = ["Edward Paget <edward@cassetteta.pe>"]
 
