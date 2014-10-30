@@ -7,3 +7,7 @@ authors = ["Edward Paget <edward@cassetteta.pe>"]
 [dependencies.url]
 
 git = "https://github.com/servo/rust-url.git"
+
+[dependencies.capnp-rpc]
+
+git = "https://github.com/dwrensha/capnp-rpc-rust.git"
